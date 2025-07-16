@@ -1,5 +1,5 @@
 # Biography
-Yachao Li received the Ph.D degree in computer science from Soochow University, Suzhou, China, in 2022. He is currently an associate professor with the Northwest Minzu University, Lanzhou, China. His research interests include document-level neural machine translation, multi-modal machine translation and large language models.
+Yachao Li received the Ph.D degree in computer science from Soochow University, Suzhou, China, in 2022. He is currently an associate professor with the Northwest Minzu University, Lanzhou, China. His research interests include document-level neural machine translation, multi-modal machine translation and large language models. He have published papers at top-tier conferences and journals including TASLP, KBS, COLING etc. 
 
 # Publications
 [1] Yachao Li, Junhui Li, Jing Jiang, Shimin Tao, Hao Yang, and Min Zhang. P-Transformer: Towards Better Document-to-Document Neural Machine Translation, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023.
