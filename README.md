@@ -1,5 +1,5 @@
 # Biography
-Yachao Li （李亚超） received the Ph.D degree in computer science from Soochow University, Suzhou, China, in 2022. He is currently an associate professor with the Northwest Minzu University, Lanzhou, China. His research interests include document-level neural machine translation, multimodal machine translation, large language models and AI for Science. He have published papers at top-tier conferences and journals including TASLP, KBS, COLING etc. 
+Yachao Li(李亚超) received the Ph.D degree in computer science from Soochow University, Suzhou, China, in 2022. He is currently an associate professor with the Northwest Minzu University, Lanzhou, China. His research interests include document-level neural machine translation, multimodal machine translation, large language models and AI for Science. He have published papers at top-tier conferences and journals including TASLP, KBS, COLING etc. 
 
 # News
 Three papers are accepted by CCL 2025 and IMLIP 2025.
