@@ -1,14 +1,14 @@
 # Biography
-Yachao Li received the Ph.D degree in computer science from Soochow University, Suzhou, China, in 2022. He is currently an associate professor with the Northwest Minzu University, Lanzhou, China. His research interests include document-level neural machine translation, multi-modal machine translation and large language models. He have published papers at top-tier conferences and journals including TASLP, KBS, COLING etc. 
+Yachao Li received the Ph.D degree in computer science from Soochow University, Suzhou, China, in 2022. He is currently an associate professor with the Northwest Minzu University, Lanzhou, China. His research interests include document-level neural machine translation, multimodal machine translation, large language models and AI for Science. He have published papers at top-tier conferences and journals including TASLP, KBS, COLING etc. 
 
 # News
 Three papers are accepted by CCL 2025 and IMLIP 2025.
 
-田佳乐，江静，李亚超. 藏汉篇章机器翻译研究及语料库构建. CCL 2025.
+田佳乐，江静，__李亚超__. 藏汉篇章机器翻译研究及语料库构建. CCL 2025.
 
-刘星甫，江静，李亚超. 以英语为枢轴语言的印地语-汉语篇章机器翻译研究. IMLIP 2025.
+刘星甫，江静，__李亚超__. 以英语为枢轴语言的印地语-汉语篇章机器翻译研究. IMLIP 2025.
 
-Yunhan Yang，Jing Jiang，Yachao Li. Property-Enhanced Molecular Weight Prediction using Large Language Models. IMLIP 2025.
+Yunhan Yang，Jing Jiang，__Yachao Li__. Property-Enhanced Molecular Weight Prediction using Large Language Models. IMLIP 2025.
 
 # Publications
 [1] __Yachao Li__, Junhui Li, Jing Jiang, Shimin Tao, Hao Yang, and Min Zhang. P-Transformer: Towards Better Document-to-Document Neural Machine Translation, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023. (CCF-B)
