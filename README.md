@@ -27,7 +27,7 @@ Yunhan Yang，Jing Jiang，__Yachao Li__. Property-Enhanced Molecular Weight Pre
 
 [8] __李亚超__，熊德意，张民. 神经机器翻译综述. 计算机学报,2018(12)374
 
-[9] YachaoLi, Deyi Xiong, Min Zhang. Neural Machine Translation with PhrasalAttention. The 17th China Workshop on Machine Translation (CMT 2017), 2017, 1-8.
+[9] YachaoLi, Deyi Xiong, Min Zhang. Neural Machine Translation with PhrasalAttention. The 17th China Workshop on Machine Translation (CWMT 2017), 2017, 1-8.
 
 [10] __李亚超__，熊德意，张民，江静，马宁，殷建民. 藏汉神经网络机器翻译研究. 中文信息学报,2017(06)41
 
@@ -42,4 +42,5 @@ Yunhan Yang，Jing Jiang，__Yachao Li__. Property-Enhanced Molecular Weight Pre
 [15] __李亚超__，加羊吉，宗成庆，于洪志. 基于条件随机场的藏语自动分词方法研究与实现. 中文信息学报,2013(04)71
 
 [16] 于洪志，__李亚超__，汪昆，冷本扎西. 融合音节特征的最大熵藏文词性标注研究. 中文信息学报,2013(05)35
+
 [17] __Yachao Li__, Hongzhi Yu. Study on Tibetan Word Segmentation asSyllable Tagging. The CCF International Conference on Natural LanguageProcessing and Chinese Computing (NLPCC 2013), 2013, CCIS 400, 363–369.
