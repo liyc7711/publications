@@ -25,22 +25,22 @@ Yunhan Yang，Jing Jiang，__Yachao Li__. Property-Enhanced Molecular Weight Pre
 
 [7] __Yachao Li__, Junhui Li and Min Zhang. Adaptive Weighting for Neural Machine Translation. Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018), 2018. (CCF-B)
 
-[8] __李亚超__，熊德意，张民. 神经机器翻译综述. 计算机学报,2018(12)374
+[8] __李亚超__，熊德意，张民. 神经机器翻译综述. 计算机学报,2018(12)374.
 
 [9] YachaoLi, Deyi Xiong, Min Zhang. Neural Machine Translation with PhrasalAttention. The 17th China Workshop on Machine Translation (CWMT 2017), 2017, 1-8.
 
-[10] __李亚超__，熊德意，张民，江静，马宁，殷建民. 藏汉神经网络机器翻译研究. 中文信息学报,2017(06)41
+[10] __李亚超__，熊德意，张民，江静，马宁，殷建民. 藏汉神经网络机器翻译研究. 中文信息学报,2017(06)41.
 
-[11] __李亚超__，加羊吉，江静，何向真,于洪志. 融合无监督特征的藏文分词方法研究. 中文信息学报,2017(02)
+[11] __李亚超__，加羊吉，江静，何向真,于洪志. 融合无监督特征的藏文分词方法研究. 中文信息学报,2017(02).
 
 [12] 马宁，__李亚超__，何向真，于洪志. 一种实用的资源稀缺条件下的分词方法. 计算机应用研究, 2016, 33(01):68-70.
 
-[13] __李亚超__，江静，加羊吉，于洪志.TIP-LAS:一个开源的藏文分词词性标注系统. 中文信息学报,2015(06)68
+[13] __李亚超__，江静，加羊吉，于洪志.TIP-LAS:一个开源的藏文分词词性标注系统. 中文信息学报,2015(06)68.
 
-[14] 加羊吉，__李亚超__，宗成庆，于洪志. 最大熵和条件随机场模型相融合的藏文人名识别. 中文信息学报,2014(01)38
+[14] 加羊吉，__李亚超__，宗成庆，于洪志. 最大熵和条件随机场模型相融合的藏文人名识别. 中文信息学报,2014(01)38.
 
-[15] __李亚超__，加羊吉，宗成庆，于洪志. 基于条件随机场的藏语自动分词方法研究与实现. 中文信息学报,2013(04)71
+[15] __李亚超__，加羊吉，宗成庆，于洪志. 基于条件随机场的藏语自动分词方法研究与实现. 中文信息学报,2013(04)71.
 
-[16] 于洪志，__李亚超__，汪昆，冷本扎西. 融合音节特征的最大熵藏文词性标注研究. 中文信息学报,2013(05)35
+[16] 于洪志，__李亚超__，汪昆，冷本扎西. 融合音节特征的最大熵藏文词性标注研究. 中文信息学报,2013(05)35.
 
-[17] __Yachao Li__, Hongzhi Yu. Study on Tibetan Word Segmentation asSyllable Tagging. The CCF International Conference on Natural LanguageProcessing and Chinese Computing (NLPCC 2013), 2013, CCIS 400, 363–369.
+[17] __Yachao Li__, Hongzhi Yu. Study on Tibetan Word Segmentation as Syllable Tagging. The CCF International Conference on Natural LanguageProcessing and Chinese Computing (NLPCC 2013), 2013, CCIS 400, 363–369.
