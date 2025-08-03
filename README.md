@@ -27,7 +27,7 @@ Yunhan Yang，Jing Jiang，__Yachao Li__. Property-Enhanced Molecular Weight Pre
 
 [8] __李亚超__，熊德意，张民. 神经机器翻译综述. 计算机学报,2018(12)374.
 
-[9] YachaoLi, Deyi Xiong, Min Zhang. Neural Machine Translation with PhrasalAttention. The 17th China Workshop on Machine Translation (CWMT 2017), 2017, 1-8.
+[9] __Yachao Li__, Deyi Xiong, Min Zhang. Neural Machine Translation with PhrasalAttention. The 17th China Workshop on Machine Translation (CWMT 2017), 2017, 1-8.
 
 [10] __李亚超__，熊德意，张民，江静，马宁，殷建民. 藏汉神经网络机器翻译研究. 中文信息学报,2017(06)41.
 
