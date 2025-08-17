@@ -43,4 +43,4 @@ Yunhan Yang，Jing Jiang，__Yachao Li__. Property-Enhanced Molecular Weight Pre
 
 [16] 于洪志，__李亚超__，汪昆，冷本扎西. 融合音节特征的最大熵藏文词性标注研究. 中文信息学报,2013(05)35.
 
-[17] __Yachao Li__, Hongzhi Yu. Study on Tibetan Word Segmentation as Syllable Tagging. The CCF International Conference on Natural LanguageProcessing and Chinese Computing (NLPCC 2013), 2013, CCIS 400, 363–369.
+[17] __Yachao Li__, Hongzhi Yu. Study on Tibetan Word Segmentation as Syllable Tagging. The CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2013), 2013, CCIS 400, 363–369.
