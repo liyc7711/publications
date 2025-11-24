@@ -11,7 +11,7 @@ Three papers are accepted by CCL 2025 and IMLIP 2025.
 Yunhan Yang，Jing Jiang，__Yachao Li__. Property-Enhanced Molecular Weight Prediction using Large Language Models. IMLIP 2025.
 
 # Publications
-[1] __Yachao Li__, Junhui Li, Jing Jiang and Min Zhang. Enhancing document-level translation of large language model via translation mixed instructions. Neurocomputing, 2026.
+[1] __Yachao Li__, Junhui Li, Jing Jiang and Min Zhang. Enhancing Document-level Translation of Large Language Model via Translation Mixed Instructions. Neurocomputing, 2026.
 
 [2] __Yachao Li__, Junhui Li, Jing Jiang, Shimin Tao, Hao Yang, and Min Zhang. P-Transformer: Towards Better Document-to-Document Neural Machine Translation, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023. (CCF-B)
 
