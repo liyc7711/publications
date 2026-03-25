@@ -6,10 +6,6 @@ Three papers are accepted by CCL 2025 and IMLIP 2025.
 
 田佳乐，江静，__李亚超__. 藏汉篇章机器翻译研究及语料库构建. CCL 2025.
 
-刘星甫，江静，__李亚超__. 以英语为枢轴语言的印地语-汉语篇章机器翻译研究. IMLIP 2025.
-
-Yunhan Yang，Jing Jiang，__Yachao Li__. Property-Enhanced Molecular Weight Prediction using Large Language Models. IMLIP 2025.
-
 # Publications
 [1] __Yachao Li__, Junhui Li, Jing Jiang and Min Zhang. Enhancing Document-level Translation of Large Language Model via Translation Mixed Instructions. Neurocomputing, 2026.
 
