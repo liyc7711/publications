@@ -2,7 +2,6 @@
 Yachao Li(李亚超) received the Ph.D degree in computer science from Soochow University, Suzhou, China, in 2022. He is currently an associate professor with the Northwest Minzu University, Lanzhou, China. His research interests include document-level neural machine translation, multimodal machine translation, large language models and AI for Science. He have published papers at top-tier conferences and journals including TASLP, KBS, COLING etc. 
 
 # News
-Three papers are accepted by CCL 2025 and IMLIP 2025.
 
 田佳乐，江静，__李亚超__. 藏汉篇章机器翻译研究及语料库构建. CCL 2025.
 
